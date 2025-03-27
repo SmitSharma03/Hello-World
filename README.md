@@ -1,1 +1,2 @@
-# Hello-World
+# Smit Sharma
+Hi I'm Smit, a student of MSC IT at GLS UNIVERSITY, and enjoy building applications and solving real-world problems through technology...
